@@ -1,5 +1,5 @@
 # spring-boot-send-email
 
-## set application.properties
+## application.properties:
 - username
 - password
